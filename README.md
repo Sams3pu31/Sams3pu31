@@ -18,7 +18,7 @@ Hello everyone
 </div>
 
 👩‍💻  About Me :
-I am a Backend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21tY2J2cjFqOGJ1OTN3bW9kc2ZuajN6bmRzaHVjbTRueWU2b24yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> from India.
+I am a Backend Developer :eyes:
 <!--
 **Sams3pu31/Sams3pu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
