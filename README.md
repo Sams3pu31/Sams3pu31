@@ -30,4 +30,4 @@ I am a Backend Developer :hammer_and_wrench:
 :wrench: I enjoy utilizing the knowledge and skills I acquire not only for work tasks but also for personal projects and home use.
 
 ---
-	🧰 Languages and Tools:
+Languages and Tools :toolbox::
