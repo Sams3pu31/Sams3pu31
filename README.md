@@ -18,7 +18,7 @@ Hello everyone
 </div>
 
 ---
-About Me :woman_technologist:
+:woman_technologist: About Me 
 I am a Backend Developer :hammer_and_wrench:
 
 :computer: I work as a backend developer, specializing in creating and optimizing various applications. I also have experience working as a frontend developer.
