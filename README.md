@@ -25,6 +25,7 @@ I am a Backend Developer :hammer_and_wrench:
 :computer: I work as a backend developer, specializing in creating and optimizing various applications. I also have experience working as a frontend developer.
 
 :palm_tree: In my free time, I delve into various aspects of developing different applications.
+
 :2nd_place_medal: I also participated in a hackathon where, within six hours, we had to create a web application from scratch for task tracking. During those six hours, my teammates and I created an application that earned us second place.
 
 :thinking: My interests include reading, VR technologies, creating various things from wood, woodturning, metalturning and video gaming.
