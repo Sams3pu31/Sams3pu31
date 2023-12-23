@@ -26,7 +26,7 @@ I am a Backend Developer :hammer_and_wrench:
 
 :2nd_place_medal: I also participated in a hackathon where, within six hours, my teammates and I created an application for task tracking that earned us second place.
 
-:palm_tree: In my free time, My interests include reading, VR technologies, creating various things from wood, woodturning, metalturning and video gaming.
+:palm_tree: In my free time, my interests include reading, VR technologies, creating various things from wood, woodturning, metalturning and video gaming.
 
 :wrench: I enjoy utilizing the knowledge and skills I acquire not only for work tasks but also for personal projects and home use.
 
