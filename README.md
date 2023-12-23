@@ -13,6 +13,9 @@
 Hello everyone
  <img src="https://media4.giphy.com/media/3kRa3yvntxlFm/200w.webp?cid=ecf05e474zx4at92whae1m4lqj9znqxr55bjtv2usaupe4sw&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRwazVhZTRlbTRrM2cxZjhjMWV5Y28xajd3anpuZmZtZmNoNHUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **Sams3pu31/Sams3pu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
