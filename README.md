@@ -11,7 +11,7 @@
 </div>
 <h1>
 Hello everyone
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+  <img src="https://media4.giphy.com/media/3kRa3yvntxlFm/200w.webp?cid=ecf05e474zx4at92whae1m4lqj9znqxr55bjtv2usaupe4sw&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100px"/>
 </h1>
 <!--
 **Sams3pu31/Sams3pu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
