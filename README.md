@@ -16,9 +16,10 @@ Hello everyone
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRwazVhZTRlbTRrM2cxZjhjMWV5Y28xajd3anpuZmZtZmNoNHUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif" width="600" height="300"/>
 </div>
-
-	👩‍💻 About Me:
+---
+About Me :woman_technologist:
 I am a Backend Developer :hammer_and_wrench:
+
 :computer: I work as a backend developer, specializing in creating and optimizing various applications. I also have experience working as a frontend developer.
 
 :palm_tree: In my free time, I delve into various aspects of developing different applications.
@@ -27,4 +28,5 @@ I am a Backend Developer :hammer_and_wrench:
 
 :wrench: I enjoy utilizing the knowledge and skills I acquire not only for work tasks but also for personal projects and home use.
 
+---
 	🧰 Languages and Tools:
