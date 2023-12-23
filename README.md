@@ -10,7 +10,7 @@
   </a>
 </div>
 <div><h1>
-<p  align="center">Hello everyone</p>
+Hello everyone
  <img src="https://media4.giphy.com/media/3kRa3yvntxlFm/200w.webp?cid=ecf05e474zx4at92whae1m4lqj9znqxr55bjtv2usaupe4sw&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100px"/>
 </h1></div>
 <!--
