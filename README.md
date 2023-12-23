@@ -17,7 +17,8 @@ Hello everyone
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRwazVhZTRlbTRrM2cxZjhjMWV5Y28xajd3anpuZmZtZmNoNHUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
+👩‍💻  About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21tY2J2cjFqOGJ1OTN3bW9kc2ZuajN6bmRzaHVjbTRueWU2b24yYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> from India.
 <!--
 **Sams3pu31/Sams3pu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
