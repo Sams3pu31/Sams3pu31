@@ -54,5 +54,6 @@ I am a Backend Developer :hammer_and_wrench:
 
 You can text me here:
 
-<p>[telegram](https://t.me/samsepuel)</p>
-<p>[email](samsepuel@gmail.com)</p>
+[telegram](https://t.me/samsepuel)
+
+[email](samsepuel@gmail.com)
