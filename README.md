@@ -52,6 +52,7 @@ I am a Backend Developer :hammer_and_wrench:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-You can text me here:<br>
+You can text me here:
+
 [telegram](https://t.me/samsepuel) <br>
 [email](samsepuel@gmail.com)
