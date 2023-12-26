@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0NmIwNDh6dHp6ejg3N3NxbWFxZWp3eDhxeDdqeWQzZDFsMXIybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/veronika-sheffer-4a2ab52a6/">
+  <a href="https://www.linkedin.com/in/veronika-sheffer-4a2ab52a6">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/samsepuel">
